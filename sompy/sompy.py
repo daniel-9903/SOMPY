@@ -207,7 +207,7 @@ class SOM(object):
               train_finetune_radiusin=None,
               train_finetune_radiusfin=None,
               train_len_factor=1,
-              maxtrainlen=np.Inf):
+              maxtrainlen=np.inf):
         """
         Trains the som
 
